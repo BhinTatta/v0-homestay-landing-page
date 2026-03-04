@@ -4,30 +4,30 @@ import { Users, Maximize2, BedDouble } from "lucide-react"
 const rooms = [
   {
     name: "Mountain View Suite",
-    desc: "Spacious room with a private balcony overlooking the Himalayan range. King-size bed, modern bathroom, and all-day mountain views.",
+    desc: "Spacious room with comfortable double bed, floral wallpaper accent wall, and warm wooden interiors. Wake up to breathtaking valley views.",
     price: "2,500",
-    image: "/images/hero-3.jpg",
+    image: "/images/bedroom-double-bed.jpeg",
     guests: "2 Guests",
     size: "300 sq ft",
     bed: "King Bed",
   },
   {
     name: "Pine Valley Room",
-    desc: "A cozy retreat nestled among pine trees. Wake up to birdsong and dappled sunlight filtering through the forest canopy.",
+    desc: "A cozy retreat with warm wooden panelling, soft bedding, and all essentials for a peaceful mountain stay.",
     price: "2,000",
-    image: "/images/hero-12.jpg",
+    image: "/images/bedroom-view.jpeg",
     guests: "2 Guests",
     size: "250 sq ft",
-    bed: "Twin Beds",
+    bed: "Double Bed",
   },
   {
     name: "Family Retreat",
-    desc: "Perfect for families. A spacious room with extra bedding, a warm sitting area, and views of the apple orchards and valley.",
+    desc: "Perfect for families. A spacious room with extra bedding, in-room wash basin, TV, and a warm sitting area.",
     price: "3,500",
-    image: "/images/hero-4.jpg",
+    image: "/images/room-interior.jpeg",
     guests: "4 Guests",
     size: "450 sq ft",
-    bed: "King + Twin",
+    bed: "King + Extra",
   },
 ]
 

@@ -11,18 +11,17 @@ import {
 } from "@/components/ui/carousel"
 
 const galleryImages = [
-  { src: "/images/hero-1.jpg", alt: "Homestay exterior" },
-  { src: "/images/hero-2.jpg", alt: "Mountain panorama" },
-  { src: "/images/hero-3.jpg", alt: "Cozy bedroom" },
-  { src: "/images/hero-4.jpg", alt: "Living room" },
-  { src: "/images/hero-5.jpg", alt: "Mountain sunrise" },
-  { src: "/images/hero-6.jpg", alt: "Breakfast spread" },
-  { src: "/images/hero-7.jpg", alt: "Balcony view" },
-  { src: "/images/hero-8.jpg", alt: "Garden area" },
-  { src: "/images/hero-9.jpg", alt: "Bathroom" },
-  { src: "/images/hero-10.jpg", alt: "Night exterior" },
-  { src: "/images/hero-11.jpg", alt: "Scenic road" },
-  { src: "/images/hero-12.jpg", alt: "Twin bedroom" },
+  { src: "/images/mountain-valley-view.jpeg", alt: "Panoramic Himalayan mountain valley view" },
+  { src: "/images/mountain-village-view.jpeg", alt: "Mountain village with terraced hillside" },
+  { src: "/images/bedroom-double-bed.jpeg", alt: "Comfortable double bedroom" },
+  { src: "/images/bedroom-view.jpeg", alt: "Cozy room with wooden interiors" },
+  { src: "/images/room-interior.jpeg", alt: "Room with wooden panelling" },
+  { src: "/images/room-tv.jpeg", alt: "In-room TV entertainment" },
+  { src: "/images/hallway-corridor.jpeg", alt: "Warm wooden hallway" },
+  { src: "/images/parking-area.jpeg", alt: "Covered guest parking" },
+  { src: "/images/kitchen-lower.jpeg", alt: "Kitchen with granite counter" },
+  { src: "/images/kitchen-upper.jpeg", alt: "Kitchen glass cabinets" },
+  { src: "/images/bathroom.jpeg", alt: "Modern bathroom with geyser" },
 ]
 
 export function GallerySection() {
