@@ -11,18 +11,17 @@ import {
 } from "@/components/ui/carousel"
 
 const heroImages = [
-  { src: "/images/hero-1.jpg", alt: "Deva's The Real Home Stay exterior with mountain backdrop" },
-  { src: "/images/hero-2.jpg", alt: "Panoramic Himalayan mountain view from the homestay" },
-  { src: "/images/hero-3.jpg", alt: "Cozy bedroom with mountain views" },
-  { src: "/images/hero-4.jpg", alt: "Warm living room with fireplace" },
-  { src: "/images/hero-5.jpg", alt: "Stunning sunrise over the Himalayas" },
-  { src: "/images/hero-6.jpg", alt: "Traditional breakfast spread" },
-  { src: "/images/hero-7.jpg", alt: "Mountain-view balcony seating" },
-  { src: "/images/hero-8.jpg", alt: "Beautiful garden with mountain backdrop" },
-  { src: "/images/hero-9.jpg", alt: "Modern bathroom with amenities" },
-  { src: "/images/hero-10.jpg", alt: "Magical night view of the homestay" },
-  { src: "/images/hero-11.jpg", alt: "Scenic road through pine forests" },
-  { src: "/images/hero-12.jpg", alt: "Comfortable twin bedroom" },
+  { src: "/images/mountain-valley-view.jpeg", alt: "Panoramic view of Himalayan mountain valley from the homestay" },
+  { src: "/images/mountain-village-view.jpeg", alt: "Mountain village with terraced hillside and pine trees in Bani, Theog" },
+  { src: "/images/bedroom-double-bed.jpeg", alt: "Spacious bedroom with comfortable double bed and floral wallpaper" },
+  { src: "/images/bedroom-view.jpeg", alt: "Cozy bedroom with warm wooden interiors and curtains" },
+  { src: "/images/room-interior.jpeg", alt: "Room interior with wooden panelling and amenities" },
+  { src: "/images/room-tv.jpeg", alt: "In-room smart TV entertainment setup" },
+  { src: "/images/hallway-corridor.jpeg", alt: "Well-lit hallway with warm wooden panelling" },
+  { src: "/images/parking-area.jpeg", alt: "Covered parking area for guests" },
+  { src: "/images/kitchen-lower.jpeg", alt: "Fully equipped kitchen with granite countertop" },
+  { src: "/images/kitchen-upper.jpeg", alt: "Kitchen with glass-door cabinets and storage" },
+  { src: "/images/bathroom.jpeg", alt: "Clean bathroom with geyser and modern fittings" },
 ]
 
 export function HeroCarousel() {
