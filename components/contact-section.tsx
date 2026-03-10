@@ -26,7 +26,7 @@ export function ContactSection() {
               Phone
             </h3>
             <p className="mt-1 text-sm text-muted-foreground">
-              +91 9882218853
+              +91 8580607171
             </p>
           </div>
 
