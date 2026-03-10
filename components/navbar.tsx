@@ -6,12 +6,14 @@ import { cn } from "@/lib/utils"
 
 const navLinks = [
   { label: "Home", href: "#home" },
+  { label: "About", href: "#about" },
+  { label: "Family First", href: "#family" },
   { label: "Rooms", href: "#rooms" },
+  { label: "Experiences", href: "#experiences" },
+  { label: "Attractions", href: "#attractions" },
+  { label: "Pricing", href: "#pricing" },
   { label: "Gallery", href: "#gallery" },
-  { label: "Amenities", href: "#amenities" },
-  { label: "Reviews", href: "#reviews" },
   { label: "Location", href: "#location" },
-  { label: "Contact", href: "#contact" },
 ]
 
 export function Navbar() {
