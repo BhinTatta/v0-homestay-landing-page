@@ -26,7 +26,7 @@ export function ContactSection() {
               Phone
             </h3>
             <p className="mt-1 text-sm text-muted-foreground">
-              +91 XXXXX XXXXX
+              +91 9882218853
             </p>
           </div>
 
@@ -38,7 +38,7 @@ export function ContactSection() {
               WhatsApp
             </h3>
             <p className="mt-1 text-sm text-muted-foreground">
-              +91 XXXXX XXXXX
+              +91 8580607171
             </p>
           </div>
 
@@ -69,7 +69,7 @@ export function ContactSection() {
 
         <div className="mt-10 text-center">
           <a
-            href="https://wa.me/91XXXXXXXXXX"
+            href="https://wa.me/918580607171"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-[#25D366] px-8 py-3.5 text-sm font-medium text-[#ffffff] shadow-lg transition-transform hover:scale-105 hover:shadow-xl"
