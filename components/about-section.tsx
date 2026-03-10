@@ -25,7 +25,7 @@ const highlights = [
 
 export function AboutSection() {
   return (
-    <section className="py-16 sm:py-24 px-4 sm:px-8 lg:px-16">
+    <section id="about" className="py-16 sm:py-24 px-4 sm:px-8 lg:px-16">
       <div className="mx-auto max-w-7xl">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           {/* Text */}
